@@ -29,7 +29,7 @@ LM331 – Frequency to voltage conversion
 Voltmeter – Output display
 
 Lm358 voltage buffer:
-<img width="651" height="390" alt="image" src="https://github.com/user-attachments/assets/bd0dd31d-e724-49c3-a5d8-55803b9da4c7" />
+<img width="651" height="390" alt="image" src="https://github.com/user-attachments/assets/0e05abd8-f3e5-48fd-9aae-eee2bfdfec04" />
 
 A voltage buffer amplifier is used to transform a voltage signal with high output impedance from a first circuit into an identical voltage with low impedance for a second circuit.
 
