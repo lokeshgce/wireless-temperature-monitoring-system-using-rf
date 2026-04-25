@@ -53,17 +53,17 @@ A transmitter converts digital data into radio waves, while a receiver converts 
 Adding a 173 mm long single-core wire as an antenna improve its performance
 
 
-<img width="667" height="374" alt="image" src="https://github.com/user-attachments/assets/c25c5a4b-59b2-415f-b5f0-8e5515d920a8" />
+<img width="667" height="374" alt="image" src="https://github.com/user-attachments/assets/51d10290-cf93-4bfb-b036-d17b120ae173" />
 
 IC 74hc14  Schimitt Trigger : 
 
-<img width="925" height="517" alt="image" src="https://github.com/user-attachments/assets/cf1fdce3-f2c6-43b8-97ef-7c7e6f377f6b" />
+<img width="925" height="517" alt="image" src="https://github.com/user-attachments/assets/e4ef99b6-3220-4712-a3fe-fda50e599d0f" />
 
 It transforms noisy or slow-changing input signals into clean, sharp digital pulses.
 
 Transmitting the temperature sensor value as data using this method:
 
-<img width="204" height="262" alt="image" src="https://github.com/user-attachments/assets/414f47e7-97fc-405f-a449-453bf24b2327" />
+<img width="204" height="262" alt="image" src="https://github.com/user-attachments/assets/573c4c05-b239-4a76-baa4-b04d14c0d23c" />
 
 Working of transmitter: 
      1. The LM35 senses temperature and produces an analog voltage proportional to temperature.
@@ -84,7 +84,7 @@ Working Principle:
       The system works based on signal conversion techniques:
 
       Temperature → Voltage → Frequency → RF Transmission → Frequency →     	Voltage → Display
-<img width="1547" height="844" alt="image" src="https://github.com/user-attachments/assets/052603ab-de8f-4bb2-8e33-84008a54b235" />
+<img width="1547" height="844" alt="image" src="https://github.com/user-attachments/assets/7b940d14-8b33-44d2-b33a-8d053fa7b3f8" />
 
 
 
