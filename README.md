@@ -36,9 +36,8 @@ A voltage buffer amplifier is used to transform a voltage signal with high outpu
 
 Lm331 IC    :     voltage – frequency & frequency to voltage 
 
-<img width="385" height="385" alt="image" src="https://github.com/user-attachments/assets/e05546b4-5fa8-45cd-afd5-87f3405053be" />
+<img width="1067" height="385" alt="image" src="https://github.com/user-attachments/assets/0efb68c0-225a-456e-9f77-87265144b5b2" />
 
-<img width="458" height="385" alt="image" src="https://github.com/user-attachments/assets/919f7b77-f047-41d1-bc2d-ce2e8f928171" />
 
 The LM331 is a precision monolithic IC that converts an analog voltage (0–10V) into a proportional frequency (0–10kHz) or vice versa, operating on a single 5V to 40V supply.
 
